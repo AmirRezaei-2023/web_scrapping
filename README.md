@@ -12,3 +12,9 @@ https://www.kaggle.com/datasets/amirrezaei97/imdb-dataset
 https://www.kaggle.com/datasets/amirrezaei97/50-top-series-in-imdb-2020
 
 َAnother file added on repo which is about making visualization in Streamlit by data in IMDB site .(2023-9-10)
+
+<div align="center">
+
+  <img src="https://drive.google.com/file/d/11Y2ReXM4OGqcF_3Do-TrquA01i1mTnW0/view?usp=drive_link" width="600" height=auto/>
+  
+</div>
