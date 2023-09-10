@@ -15,6 +15,6 @@ https://www.kaggle.com/datasets/amirrezaei97/50-top-series-in-imdb-2020
 
 <div align="center">
 
-  <img src="https://drive.google.com/file/d/11Y2ReXM4OGqcF_3Do-TrquA01i1mTnW0/view?usp=drive_link" width="600" height=auto/>
+  <img src="https://github.com/AmirRezaei-2023/web_scrapping/blob/main/streamlit/remix-moshkeldari-reza-pishro-hitava.ir_.jpg" width="200" height=auto/>
   
 </div>
