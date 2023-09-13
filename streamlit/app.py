@@ -109,14 +109,8 @@ plt.title('Parental')
 st.pyplot(q)
 
 "## d.Age Ratings in Movie Genres"
+st.bar_chart(data=merged_genre, x='genre', y='parental_guide')
 
-genre_age_counts = merged_genre.groupby(['genre', 'parental_guide']).size()
-plt.figure(figsize=(10, 6))
-genre_age_counts.unstack().plot(kind='bar', stacked=True)
-plt.title('frquency of parental guides in each genre')
-plt.ylabel('frequency')
-plt.legend(title='parental_guide')
-st.pyplot(plt.show())
 
 
 "# 📊 Part_Three : Interactive Charts"
